@@ -16,11 +16,16 @@ O objetivo deste repositório é fornecer um ambiente de aprendizado e experimen
 
 Este repositório é uma comunidade de desenvolvedores, traders e cientistas de dados interessados em explorar e aprimorar estratégias de trading com machine learning. Você é encorajado a contribuir com seus próprios projetos, melhorias, algoritmos ou até mesmo compartilhar insights sobre práticas bem-sucedidas no mundo do trading.
 
-##Recomandacao de leitura
+## Recomendação de Leitura
 
-Recomendo a leitura do livro Machine Learning for Algorithmic Trading: Predictive models to extract signals from market and alternative data for systematic trading strategies with Python, 2nd Edition que abrange uma grande gama de topicos.
+Recomendo a leitura do livro "Machine Learning for Algorithmic Trading: Predictive Models to Extract Signals from Market and Alternative Data for Systematic Trading Strategies with Python, 2nd Edition". Este livro abrange uma ampla gama de tópicos relevantes para o trading algorítmico e é uma excelente referência para quem deseja aprofundar seus conhecimentos.
+
+Você pode adquirir o livro [aqui](https://www.amazon.com/gp/product/1839217715/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1839217715&linkCode=as2&tag=ml4trading-20&linkId=7d000d98fa759eeda7afa1a09e227587).
 
 ![Trading Image](https://m.media-amazon.com/images/I/71ycxzrff0L._SY466_.jpg)
+
+Essa leitura é altamente recomendada para quem deseja aprofundar seus conhecimentos em machine learning aplicado ao trading algorítmico. O livro fornece insights valiosos e exemplos práticos para o desenvolvimento de estratégias de negociação baseadas em dados de mercado e alternativos.
+
 
 
 
