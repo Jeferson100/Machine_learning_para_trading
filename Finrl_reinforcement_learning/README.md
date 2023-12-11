@@ -1,6 +1,9 @@
 # Projeto:
-Aplicação da Biblioteca [FinRL](https://github.com/AI4Finance-Foundation/FinRL-Tutorials)
- em Ações Brasileiras
+Aplicação da Biblioteca [FinRL](https://github.com/AI4Finance-Foundation/FinRL-Tutorials) em Ações Brasileiras
+
+# A trilha de aprendizagem seguirá essa indicação dos desenvolvedores
+
+![FinRL Tutorials](https://github.com/AI4Finance-Foundation/FinRL/raw/master/figs/FinRL_Tutorials.png)
  
 # Descrição:
 
