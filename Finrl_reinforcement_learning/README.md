@@ -1,4 +1,7 @@
-Projeto: Aplicação da Biblioteca FinRL em Ações Brasileiras
+**Projeto:**
+
+Aplicação da Biblioteca [FinRL](https://github.com/AI4Finance-Foundation/FinRL-Tutorials)
+ em Ações Brasileiras
 Descrição:
 
 Este projeto visa aplicar a biblioteca FinRL, especializada em aprendizado por reforço para finanças, em ações do mercado brasileiro. A biblioteca FinRL oferece uma estrutura poderosa para a implementação e teste de algoritmos de aprendizado por reforço em ambientes financeiros, permitindo a otimização de estratégias de negociação e investimento.
