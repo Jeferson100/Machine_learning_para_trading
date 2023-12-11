@@ -1,0 +1,15 @@
+#para instalar: pip install -r pacotes.txt
+swig
+pandas==2.0.3
+#pandas
+numpy
+wrds
+pyportfolioopt
+QuantStats
+finrl
+git+https://github.com/AI4Finance-Foundation/FinRL.git
+yfinance
+Pillow==9.5.0
+matplotlib==3.7.3
+torch==2.0.0
+scipy==1.11.1
