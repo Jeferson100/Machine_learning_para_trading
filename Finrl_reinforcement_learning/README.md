@@ -1,9 +1,5 @@
 # Projeto:
 Aplicação da Biblioteca [FinRL](https://github.com/AI4Finance-Foundation/FinRL-Tutorials) em Ações Brasileiras
-
-# A trilha de aprendizagem seguirá essa indicação dos desenvolvedores
-
-![FinRL Tutorials](https://github.com/AI4Finance-Foundation/FinRL/raw/master/figs/FinRL_Tutorials.png)
  
 # Descrição:
 
@@ -32,3 +28,6 @@ Documentação: Explicação detalhada dos algoritmos utilizados, processos de t
 # Contribuições:
 Contribuições são bem-vindas! Este projeto pode ser expandido para incluir mais estratégias de investimento, otimizações de desempenho, ou mesmo a integração com outras fontes de dados do mercado financeiro brasileiro.
 
+# A trilha de aprendizagem seguirá essa indicação dos desenvolvedores
+
+![FinRL Tutorials](https://github.com/AI4Finance-Foundation/FinRL/raw/master/figs/FinRL_Tutorials.png)
