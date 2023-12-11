@@ -1,4 +1,4 @@
-**Projeto:**
+# Projeto:
 
 Aplicação da Biblioteca [FinRL](https://github.com/AI4Finance-Foundation/FinRL-Tutorials)
  em Ações Brasileiras
