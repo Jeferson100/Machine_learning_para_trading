@@ -45,15 +45,25 @@ Total de ações ordinárias e preferenciais
 Neste notebook, são selecionados e avaliados conjuntos de dados utilizando algoritmos SHAP e Random Forest para identificar as características mais importantes, destacando indicadores relevantes para análises futuras.
 
 Principais Características Identificadas:
+
 High -> 23241.4748 (softmax = 1.0000)
+
 Low -> 20588.7602 (softmax = 0.0000)
+
 Open -> 18922.4840 (softmax = 0.0000)
+
 PE Diário -> 152.5423 (softmax = 0.0000)
+
 Preço da Dívida Líquida Diária -> 115.7628 (softmax = 0.0000)
+
 Porcentagem de Ações Ordinárias -> 114.8245 (softmax = 0.0000)
+
 Preço do Ativo Total Diário -> 106.3465 (softmax = 0.0000)
+
 Margem Líquida -> 105.8848 (softmax = 0.0000)
+
 EV Ativo Total -> 88.1089 (softmax = 0.0000)
+
 Preço Valor Patrimonial Diária -> 63.0183 (softmax = 0.0000)
 
 Contribuições
