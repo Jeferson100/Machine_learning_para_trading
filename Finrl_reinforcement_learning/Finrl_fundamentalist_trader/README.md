@@ -3,7 +3,7 @@ Este projeto se concentra na aplicação da biblioteca FinRL para modelagem de e
 
 # Descrição
 
-Neste repositório, exploramos a utilização da biblioteca FinRL para realizar análises de trading com ênfase em dados fundamentalistas coletados do site InvestSite. Utilizamos a biblioteca Selenium para realizar o web scraping desses dados, obtendo informações fundamentais essenciais para a análise de ações e tomada de decisões no mercado financeiro.
+Neste repositório, exploramos a utilização da biblioteca FinRL para realizar análises de trading com ênfase em dados fundamentalistas coletados do site [InvestSite](https://www.investsite.com.br/). Utilizamos a biblioteca Selenium para realizar o web scraping desses dados, obtendo informações fundamentais essenciais para a análise de ações e tomada de decisões no mercado financeiro.
 
 # Funcionalidades
 
