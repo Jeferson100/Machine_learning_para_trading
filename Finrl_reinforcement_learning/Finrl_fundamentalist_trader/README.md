@@ -13,6 +13,8 @@ Integração com FinRL: Utilização da biblioteca FinRL para modelagem preditiv
 
 Análise de Dados Fundamentalistas: Exploração e visualização dos dados obtidos do InvestSite para identificar tendências, padrões e insights relevantes para decisões de trading.
 
+Dados Finais: Os arquivos trade_fund.rar e treino_fund.rar contêm os dados finais para utilização no modelo desenvolvido.
+
 # Observacao
 
 Alguns dados sao muito grandes entao foi colocado no google colab:
