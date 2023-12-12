@@ -6,25 +6,25 @@ Este repositório contém análises e dados fundamentais coletados do site Inves
 ## 1. retornos_margens.ipynb
 Neste notebook, são coletados e analisados os seguintes indicadores financeiros:
 
-Retorno sobre capital tangível inicial
-Retorno sobre capital investido inicial
-Margens brutas e líquidas
-Margens EBIT e EBITDA
-Giro do ativo inicial
-Alavancagem financeira
-Passivo e patrimônio líquido
-Dívida líquida e EBITDA
+Retorno sobre capital tangível inicial,
+Retorno sobre capital investido inicial,
+Margens brutas e líquidas,
+Margens EBIT e EBITDA,
+Giro do ativo inicial,
+Alavancagem financeira,
+Passivo e patrimônio líquido,
+Dívida líquida e EBITDA.
 E outros indicadores relevantes.
 
 ## 2. dre_trimestre_investsite.ipynb
 Neste notebook, são analisados dados do Demonstrativo de Resultado do Exercício (DRE) trimestral obtidos do InvestSite, incluindo:
 
-Receita líquida
-Resultado bruto
-EBIT
-Depreciação e amortização
-EBITDA
-Lucro líquido
+Receita líquida,
+Resultado bruto,
+EBIT,
+Depreciação e amortização,
+EBITDA,
+Lucro líquido e 
 Lucro por ação
 
 ## 3. precos_relativos_invesrsite.ipynb
@@ -33,12 +33,12 @@ Neste notebook, são coletados e analisados dados de preços relativos, Market C
 ## 4. resumo_balanço_patrimonial_investsite.ipynb
 Neste notebook, são obtidos e analisados dados do balanço patrimonial, incluindo:
 
-Caixa e equivalentes de caixa
-Ativo total
-Dívidas de curto e longo prazo
-Dívida bruta e líquida
-Patrimônio líquido
-Valor patrimonial por ação
+Caixa e equivalentes de caixa,
+Ativo total,
+Dívidas de curto e longo prazo,
+Dívida bruta e líquida,
+Patrimônio líquido,
+Valor patrimonial por ação e
 Total de ações ordinárias e preferenciais
 
 ## 5. selecionando_dados_juntos.ipynb
