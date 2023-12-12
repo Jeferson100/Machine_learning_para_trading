@@ -17,23 +17,21 @@ Dados Finais: Os arquivos trade_fund.rar e treino_fund.rar contêm os dados fina
 
 # Notebooks:
 1. talib_ambiente_ml4t.ipynb
-Neste notebook, são realizadas as seguintes etapas:
-
+   
+Neste notebook, são realizadas as seguintes etapas: 
 Uso da biblioteca TALib para criar características baseadas em indicadores técnicos.
 Utilização das bibliotecas SHAP e Random Forest para identificar as características mais relevantes, listando-as com seus respectivos softmax.
 
 2. Trader_reforce_learning_fundamentalista.ipynb
+
 Neste notebook, são treinados os seguintes algoritmos de aprendizado por reforço da biblioteca Stable Baselines3:
 A2C, DDPG, PPO,SAC e TD3.
 
 
-3. Avaliando_fundamentalista.ipynb
+4. Avaliando_fundamentalista.ipynb
+5. 
 Neste notebook, são realizadas avaliações dos algoritmos treinados utilizando:
-
-Benchmarks
-Carteira de otimização de variância média
-Índice Ibovespa
-CDI
+Sã0 usados os Benchmarks de Carteira de otimização de variância média, Índice Ibovespa e o CDI.
 Além disso, é utilizada a biblioteca Quantstats para avaliação.
 
 # Observacao
