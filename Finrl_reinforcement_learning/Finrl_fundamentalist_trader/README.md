@@ -18,5 +18,7 @@ Análise de Dados Fundamentalistas: Exploração e visualização dos dados obti
 Alguns dados sao muito grandes entao foi colocado no google colab:
 
 [df_setor.csv](https://drive.google.com/drive/folders/12m2qOYl1IgM2V86C98r_9AxPPUSLJOhZ)
+
 [dados_fun_tec.csv](https://drive.google.com/drive/folders/1-5DRxE261IGvzDC0N2Dw7BVJ1TkzRz8j)
+
 [dados_fundamentalistas_final.csv](https://drive.google.com/drive/folders/1-5DRxE261IGvzDC0N2Dw7BVJ1TkzRz8j)
