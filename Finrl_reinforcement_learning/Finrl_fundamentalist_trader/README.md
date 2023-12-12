@@ -29,7 +29,6 @@ A2C, DDPG, PPO,SAC e TD3.
 
 
 4. Avaliando_fundamentalista.ipynb
-5. 
 Neste notebook, são realizadas avaliações dos algoritmos treinados utilizando:
 Sã0 usados os Benchmarks de Carteira de otimização de variância média, Índice Ibovespa e o CDI.
 Além disso, é utilizada a biblioteca Quantstats para avaliação.
