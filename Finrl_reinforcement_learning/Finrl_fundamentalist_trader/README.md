@@ -24,13 +24,9 @@ Utilização das bibliotecas SHAP e Random Forest para identificar as caracterí
 
 2. Trader_reforce_learning_fundamentalista.ipynb
 Neste notebook, são treinados os seguintes algoritmos de aprendizado por reforço da biblioteca Stable Baselines3:
+A2C, DDPG, PPO,SAC e TD3
 
-A2C
-DDPG
-PPO
-SAC
-TD3
-3. Avaliando_fundamentalista.ipynb
+4. Avaliando_fundamentalista.ipynb
 Neste notebook, são realizadas avaliações dos algoritmos treinados utilizando:
 
 Benchmarks
