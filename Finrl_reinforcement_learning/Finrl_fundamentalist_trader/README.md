@@ -16,18 +16,18 @@ Análise de Dados Fundamentalistas: Exploração e visualização dos dados obti
 Dados Finais: Os arquivos trade_fund.rar e treino_fund.rar contêm os dados finais para utilização no modelo desenvolvido.
 
 # Notebooks:
-- [talib_ambiente_ml4t.ipynb](https://github.com/Jeferson100/Machine_learning_para_trading/edit/main/Finrl_reinforcement_learning/Finrl_fundamentalist_trader/talib_ambiente_ml4t.ipynb)
+- [talib_ambiente_ml4t.ipynb](https://github.com/Jeferson100/Machine_learning_para_trading/blob/main/Finrl_reinforcement_learning/Finrl_fundamentalist_trader/talib_ambiente_ml4t.ipynb)
    
 Neste notebook, são realizadas as seguintes etapas: 
 Uso da biblioteca TALib para criar características baseadas em indicadores técnicos.
 Utilização das bibliotecas SHAP e Random Forest para identificar as características mais relevantes, listando-as com seus respectivos softmax.
 
-- [Trader_reforce_learning_fundamentalista.ipynb](https://github.com/Jeferson100/Machine_learning_para_trading/edit/main/Finrl_reinforcement_learning/Finrl_fundamentalist_trader/Trader_reforce_learning_fundamentalista.ipynb)
+- [Trader_reforce_learning_fundamentalista.ipynb](https://github.com/Jeferson100/Machine_learning_para_trading/blob/main/Finrl_reinforcement_learning/Finrl_fundamentalist_trader/Trader_reforce_learning_fundamentalista.ipynb)
 
 Neste notebook, são treinados os seguintes algoritmos de aprendizado por reforço da biblioteca Stable Baselines3:
 A2C, DDPG, PPO,SAC e TD3.
 
-- [Avaliando_fundamentalista.ipynb](https://github.com/Jeferson100/Machine_learning_para_trading/edit/main/Finrl_reinforcement_learning/Finrl_fundamentalist_trader/Avaliando_fundamentalista.ipynb)
+- [Avaliando_fundamentalista.ipynb](https://github.com/Jeferson100/Machine_learning_para_trading/blob/main/Finrl_reinforcement_learning/Finrl_fundamentalist_trader/Avaliando_fundamentalista.ipynb)
    
 Neste notebook, são realizadas avaliações dos algoritmos treinados utilizando:
 Sã0 usados os Benchmarks de Carteira de otimização de variância média, Índice Ibovespa e o CDI.
