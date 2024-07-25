@@ -16,7 +16,7 @@ Análise de Dados Fundamentalistas: Exploração e visualização dos dados obti
 Dados Finais: Os arquivos trade_fund.rar e treino_fund.rar contêm os dados finais para utilização no modelo desenvolvido.
 
 # Notebooks:
-`[talib_ambiente_ml4t.ipynb]`(https://github.com/Jeferson100/Machine_learning_para_trading/edit/main/Finrl_reinforcement_learning/Finrl_fundamentalist_trader/talib_ambiente_ml4t.ipynb)
+[talib_ambiente_ml4t.ipynb](https://github.com/Jeferson100/Machine_learning_para_trading/edit/main/Finrl_reinforcement_learning/Finrl_fundamentalist_trader/talib_ambiente_ml4t.ipynb)
    
 Neste notebook, são realizadas as seguintes etapas: 
 Uso da biblioteca TALib para criar características baseadas em indicadores técnicos.
